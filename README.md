@@ -1,1 +1,1 @@
-# medico.github.io
+# healthscale.github.io
